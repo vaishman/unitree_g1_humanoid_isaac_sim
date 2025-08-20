@@ -3,6 +3,8 @@
 This repository contains the ROS2 package developed for the **Simulated Humanoid Robot Gesture and Object Localization Task**.  
 The objective is to demonstrate fundamental skills in simulation setup, robot control, sensor integration, and basic AI algorithms relevant to humanoid robots.
 
+Please fing the simulation video recording here https://drive.google.com/drive/folders/1CdG7jMWARWB-GFncfxhYVn3volAJ37Br?usp=sharing
+
 ---
 
 ## 📌 Project Overview
@@ -39,3 +41,5 @@ git clone https://github.com/vaishman/humanoid_assessment.git
 cd ~/ros2_ws
 colcon build
 source install/setup.bash
+```
+
