@@ -2,8 +2,15 @@
 
 This repository contains a ROS2 package for controlling and interacting with a Unitree G1 humanoid robot in NVIDIA Isaac Sim 4.5. The package implements gesture control (wave, point, grasp) and object localization using RGB-D camera data.
 
-## 📋 Table of Contents
 
+## 🎥 Video Demonstration
+
+A video demonstration of the simulation is available:
+[Google Drive - Simulation Video](https://drive.google.com/drive/folders/1CdG7jMWARWB-GFncfxhYVn3volAJ37Br?usp=sharing)
+
+
+## 📋 Table of Contents
+- [Video Demonstration](#video-demonstration)
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -12,7 +19,7 @@ This repository contains a ROS2 package for controlling and interacting with a U
 - [ROS2 Topics](#ros2-topics)
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
-- [Video Demonstration](#video-demonstration)
+
 
 ## 🎯 Overview
 
@@ -213,11 +220,6 @@ The object localizer implements:
 ### Camera Intrinsics Not Received
 - Check camera info topic: `ros2 topic echo /UG1/camera_info`
 - Ensure Isaac Sim camera is configured to publish camera info
-
-## 🎥 Video Demonstration
-
-A video demonstration of the simulation is available:
-[Google Drive - Simulation Video](https://drive.google.com/drive/folders/1CdG7jMWARWB-GFncfxhYVn3volAJ37Br?usp=sharing)
 
 ## 📝 License
 
