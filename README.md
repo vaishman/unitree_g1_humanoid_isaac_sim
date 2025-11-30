@@ -6,7 +6,7 @@ This repository contains a ROS2 package for controlling and interacting with a U
 ## 🎥 Video Demonstration
 
 A video demonstration of the simulation is available:
-[Google Drive - Simulation Video](https://drive.google.com/drive/folders/1CdG7jMWARWB-GFncfxhYVn3volAJ37Br?usp=sharing)
+[Google Drive - Simulation Videos](https://drive.google.com/drive/folders/1CdG7jMWARWB-GFncfxhYVn3volAJ37Br?usp=sharing)
 
 
 ## 📋 Table of Contents
