@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='leo',
-    maintainer_email='ghousul.vaish@10xconstruction.ai',
+    maintainer_email='2010040054ece@gmail.com',
     description='Gesture control and joint tests for UG1 robot',
     license='MIT',  
     tests_require=['pytest'],
