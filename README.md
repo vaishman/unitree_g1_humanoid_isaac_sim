@@ -37,7 +37,7 @@ Clone the repository into your ROS2 workspace:
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/vaishman/humanoid_assessment.git
+git clone https://github.com/vaishman/unitree_g1_humanoid_isaac_sim.git
 cd ~/ros2_ws
 colcon build
 source install/setup.bash
